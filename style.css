@@ -1,0 +1,14 @@
+html { 
+	height: 100%;
+	width: 100%;
+}
+
+body { 
+	height: 100%;
+	width: 100%;
+	background-color: white;
+  color: black;
+  font-size: small;
+  font-family: Verdana, Arial, sans-serif;
+	text-align: center;
+}
